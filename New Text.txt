@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/Jessdevzz/roblox-rate-my-avatar-bad-apple/main/frames2")
+local data = game:HttpGet("https://raw.githubusercontent.com/AGuyindo/Infinite-Strike-Video/main/frames.txt")
 
 function update(text)
     local args = {
