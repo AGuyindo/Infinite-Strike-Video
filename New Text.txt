@@ -10,7 +10,6 @@ function update(text)
             ["ImageId"] = 17239684976
         }
     }
-    
     game:GetService("ReplicatedStorage").CustomiseBooth:FireServer(unpack(args))
 end
 
