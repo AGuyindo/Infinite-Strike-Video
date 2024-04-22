@@ -1,5 +1,5 @@
 _G.Enabled = true
---local data = readfile("nframes/infinitestrifecutsence.txt")
+--local data = readfile("nframes/owl.txt")
 local data = game:HttpGet("https://raw.githubusercontent.com/AGuyindo/Infinite-Strike-Video/main/frames.txt")
 
 function update(text)
